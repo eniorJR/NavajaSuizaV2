@@ -1,0 +1,16 @@
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\bin\Debug\Navaja Suiza.exe.config
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\bin\Debug\Navaja Suiza.exe
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\bin\Debug\Navaja Suiza.pdb
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\bin\Debug\AntiDebugging.dll
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\bin\Debug\MetroSet UI.dll
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\obj\Debug\Navaja Suiza.csprojAssemblyReference.cache
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\obj\Debug\Navaja_Suiza.form1.resources
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\obj\Debug\Navaja_Suiza.Form2.resources
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\obj\Debug\Navaja_Suiza.Properties.Resources.resources
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\obj\Debug\Navaja Suiza.csproj.GenerateResource.cache
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\obj\Debug\Navaja Suiza.csproj.CoreCompileInputs.cache
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\obj\Debug\Navaja Suiza.csproj.CopyComplete
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\obj\Debug\Navaja Suiza.exe
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\obj\Debug\Navaja Suiza.pdb

@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Navaja Suiza.exe" version="1.0.0.0" publicKeyToken="81f25ea1c10eab40" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="swiss-army-knife-154314_960_720.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Navaja Suiza" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Navaja Suiza.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- Opciones del manifiesto UAC
+             Si quiere cambiar el nivel del Control de cuentas de usuario de Windows reemplace el 
+             nodo requestedExecutionLevel por uno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Especificar el elemento requestedExecutionLevel deshabilitará la virtualización de archivos y registros. 
+            Quite este elemento si la aplicación necesita esta virtualización para la compatibilidad
+            con versiones anteriores.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MetroSet UI.dll" size="454656">
+      <assemblyIdentity name="MetroSet UI" version="2.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>YojlWbDzTVarRgH/sroiiQAcd89zUdE13ZORUDTFa7o=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Navaja Suiza.exe" size="695280">
+      <assemblyIdentity name="Navaja Suiza" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>XEAoxs2PhB6d1ZLvRogFCordyJ5c2zH5IF9ZxP6hYmw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="descarga.ico" size="209762">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>lyupqkOHAM5Q7Axt5m5SBVwgagY+5BqJqv00Pi/aIVQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Navaja Suiza.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="swiss-army-knife-154314_960_720.ico" size="214430">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>SjhNmLstp5c9e9hca1RryTpvWoJu3RcqEgV7rGQs/a0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- Una lista de las versiones de Windows en la que se ha probado esta aplicación y
+           con la que se ha diseñado para que trabaje. Quite la marca de comentario de los elementos adecuados y Windows seleccionará 
+           automáticamente el entorno más compatible. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=DESKTOP-P8R051D\eniorJR" issuerKeyHash="42c1f5ed6beb1690affa57f59102b4ff00262f43" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>5SEUlBZ5JA4/wkSqY6BnGzpVTwEo3Zm4o637QxF+QJ8=</DigestValue></Reference></SignedInfo><SignatureValue>BxqFpshhIJQKjlsaONkcY0RrEcci1U/fTttuaMDk+iieI4JqvObyBJYGGqY2ux0wDbKAC2OEf68W41vYQ0y/P+ZTJYGvC7Wev1U3Fwl9j+NxHEXsIAQK7WdD9IbxELDkkVrZn7y6l/RmoYUeGxTr2gcNAWkN29qpmh9dqa5KhYg=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>y0Bqq0oO9e/28reQZ0MYQaAgoSUNz0iZkL68C/O0QtFw+zLWpJ7VOak3w0LuZYfa8He3GOlhKoXQ6YOV0AZg+fCSnR+dDXSk+9VMMeu0wmqTBG/9sw1uT9zth+SZBoFsRLJ0/d2exkuDm3Ijki04KmEyrbRrFeatrEGuORXmgx0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="9f407e1143fbada3b899dd28014f553a1b67a063aa44c23f0e247916941421e5" Description="" Url=""><as:assemblyIdentity name="Navaja Suiza.exe" version="1.0.0.0" publicKeyToken="81f25ea1c10eab40" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-P8R051D\eniorJR</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>XV76LQnYVRmTMvT/NGGgx88jYBKZvBHCbOz4T9EhC/0=</DigestValue></Reference></SignedInfo><SignatureValue>yGJyDijp5pWCEoZXbgveABD9tm+YKjVHCLxSAhqFyH0FIQ/lrrX749522Lc1bLaoH6tV+ZDNzarYOOsk2sZVA9LMLOrt+H1UifyeVu8mCDQRA5p11B/Q4GsjDalK4+WszDcaqHwYcvjN8wHEUgQanPzW91PdmVV6ltN28PNvkz4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>y0Bqq0oO9e/28reQZ0MYQaAgoSUNz0iZkL68C/O0QtFw+zLWpJ7VOak3w0LuZYfa8He3GOlhKoXQ6YOV0AZg+fCSnR+dDXSk+9VMMeu0wmqTBG/9sw1uT9zth+SZBoFsRLJ0/d2exkuDm3Ijki04KmEyrbRrFeatrEGuORXmgx0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB9TCCAV6gAwIBAgIQQl6B1RPQdplAM2Wz6H3KsjANBgkqhkiG9w0BAQsFADA5MTcwNQYDVQQDHi4ARABFAFMASwBUAE8AUAAtAFAAOABSADAANQAxAEQAXABlAG4AaQBvAHIASgBSMB4XDTIxMDkwNDE4MzQyMloXDTIyMDkwNTAwMzQyMlowOTE3MDUGA1UEAx4uAEQARQBTAEsAVABPAFAALQBQADgAUgAwADUAMQBEAFwAZQBuAGkAbwByAEoAUjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAy0Bqq0oO9e/28reQZ0MYQaAgoSUNz0iZkL68C/O0QtFw+zLWpJ7VOak3w0LuZYfa8He3GOlhKoXQ6YOV0AZg+fCSnR+dDXSk+9VMMeu0wmqTBG/9sw1uT9zth+SZBoFsRLJ0/d2exkuDm3Ijki04KmEyrbRrFeatrEGuORXmgx0CAwEAATANBgkqhkiG9w0BAQsFAAOBgQCR+Fh/g91/KLdKHkOjREiEi5f0z6BKGstSEVN2zaNTA4P4E8RzCbXVWLEwyl9gPJOsinK2G+wDh0mhJtfndN6CF5q6VBekwLZMzz5mzR4RdFGa1mcLw8Y+PQ21Tl/KGo//XtixZcBGS+t15lHcf3MkPr0de1gHPopJlZNyM/rVZQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

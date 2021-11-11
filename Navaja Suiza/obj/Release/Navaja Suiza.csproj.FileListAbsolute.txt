@@ -1,0 +1,24 @@
+C:\Users\eniorJR\source\repos\Navaja Suiza\Navaja Suiza\obj\Release\Navaja_Suiza.form1.resources
+C:\Users\eniorJR\source\repos\Navaja Suiza\Navaja Suiza\obj\Release\Navaja_Suiza.Form2.resources
+C:\Users\eniorJR\source\repos\Navaja Suiza\Navaja Suiza\obj\Release\Navaja_Suiza.Properties.Resources.resources
+C:\Users\eniorJR\source\repos\Navaja Suiza\Navaja Suiza\obj\Release\Navaja Suiza.csproj.GenerateResource.cache
+C:\Users\eniorJR\source\repos\Navaja Suiza\Navaja Suiza\obj\Release\Navaja Suiza.csproj.CoreCompileInputs.cache
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\build\Navaja Suiza.exe.config
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\build\Navaja Suiza.exe
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\build\Navaja Suiza.pdb
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\build\MetroSet UI.dll
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\obj\Release\Navaja_Suiza.form1.resources
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\obj\Release\Navaja_Suiza.Form2.resources
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\obj\Release\Navaja_Suiza.Properties.Resources.resources
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\obj\Release\Navaja Suiza.csproj.GenerateResource.cache
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\obj\Release\Navaja Suiza.csproj.CoreCompileInputs.cache
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\obj\Release\Navaja Suiza.csproj.CopyComplete
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\obj\Release\Navaja Suiza.exe
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\obj\Release\Navaja Suiza.pdb
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\builds\Navaja Suiza.exe.config
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\builds\Navaja Suiza.exe
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\builds\Navaja Suiza.pdb
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\builds\MetroSet UI.dll
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\obj\Release\Navaja Suiza.csprojAssemblyReference.cache
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\builds\System.Security.Principal.Windows.dll
+C:\Users\eniorJR\source\repos\Navaja SuizaV2\Navaja Suiza\builds\System.Security.Principal.Windows.xml
